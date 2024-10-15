@@ -11,6 +11,5 @@
         <masse unit="masse terrestre">0.06</masse>
         <diametre unit="diametre terrestre">0.4</diametre>
     </planete>
-    <!-- Ajoutez le reste des planètes de manière similaire -->
 </systeme_solaire>
 
