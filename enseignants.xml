@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enseignants>
+    <enseignant>
+        <nom>M. Dupont</nom>
+        <matiere>français</matiere>
+        <eleves>132</eleves>
+    </enseignant>
+    <enseignant>
+        <nom>Mme Martin</nom>
+        <matiere>français</matiere>
+        <eleves>161</eleves>
+    </enseignant>
+    <enseignant>
+        <nom>Mlle Durand</nom>
+        <matiere>mathématiques</matiere>
+        <eleves>143</eleves>
+    </enseignant>
+</enseignants>
+
