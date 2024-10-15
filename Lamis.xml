@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vetements>
+    <robes>
+        <robe>
+            <couleur>rose</couleur>
+            <saison>été</saison>
+        </robe>
+        <robe>
+            <couleur>verte</couleur>
+            <saison>été</saison>
+        </robe>
+        <robe>
+            <couleur>bleue</couleur>
+            <saison>hiver</saison>
+        </robe>
+    </robes>
+    <pantalons>
+        <pantalon>
+            <couleur>blanc</couleur>
+            <saison>été</saison>
+        </pantalon>
+        <pantalon>
+            <couleur>beige</couleur>
+            <saison>hiver</saison>
+        </pantalon>
+    </pantalons>
+</vetements>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibliotheque_musicale>
+    <artiste>
+        <nom>Beyoncé</nom>
+        <oeuvre>
+            <titre>Lemonade</titre>
+            <genre>R&B</genre>
+            <annee>2016</annee>
+        </oeuvre>
+    </artiste>
+    <artiste>
+        <nom>Drake</nom>
+        <oeuvre>
+            <titre>Take Care</titre>
+            <genre>Hip-hop</genre>
+            <annee>2011</annee>
+        </oeuvre>
+    </artiste>
+</bibliotheque_musicale>
+
+

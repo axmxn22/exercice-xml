@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<polyedres>
+    <polyedre>
+        <nom>Tétraèdre</nom>
+        <matiere>Bois</matiere>
+        <couleur>Rouge</couleur>
+        <nombre_faces>4</nombre_faces>
+    </polyedre>
+    <polyedre>
+        <nom>Cube</nom>
+        <matiere>Métal</matiere>
+        <couleur>Bleu</couleur>
+        <nombre_faces>6</nombre_faces>
+    </polyedre>
+    <polyedre>
+        <nom>Icosaèdre</nom>
+        <matiere>Plastique</matiere>
+        <couleur>Vert</couleur>
+        <nombre_faces>8</nombre_faces>
+    </polyedre>
+</polyedres>
+

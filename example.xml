@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personnes SYSTEM "personne.dtd">
+<personnes>
+  <personne>
+    <nom>Ndiaye</nom>
+    <prenom>Amadou</prenom>
+    <tel/>
+    <email>example1@gmail.com</email>
+    <adresse>Dakar</adresse>
+  </personne>
+
+  <personne>
+    <nom>Ndiaye</nom>
+    <prenom>Chérif</prenom>
+    <tel>773519128</tel>
+    <email>ndiayeamadoumactar3@gmail.com</email>
+    <adresse>Dakar</adresse>
+  </personne>
+</personnes>
+
+

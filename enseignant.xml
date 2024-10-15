@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enseignants>
+    <enseignant>
+        <nom>M. Ali</nom>
+        <discipline>Langue arabe</discipline>
+        <nombre_eleves>132</nombre_eleves>
+    </enseignant>
+    <enseignante>
+        <nom>Mme Fatima</nom>
+        <discipline>Langue arabe</discipline>
+        <nombre_eleves>161</nombre_eleves>
+    </enseignante>
+    <enseignante>
+        <nom>Mlle Nora</nom>
+        <discipline>Mathématiques</discipline>
+        <nombre_eleves>143</nombre_eleves>
+    </enseignante>
+</enseignants>
+

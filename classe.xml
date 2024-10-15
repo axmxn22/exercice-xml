@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classe nom="Groupe 1">
+    <eleve>
+        <nom>Pierre</nom>
+        <trimestre>
+            <note>15</note>
+            <note>14</note>
+            <note>16</note>
+        </trimestre>
+    </eleve>
+    <eleve>
+        <nom>Marie</nom>
+        <trimestre>
+            <note>12</note>
+            <note>13</note>
+            <note>14</note>
+        </trimestre>
+    </eleve>
+    <eleve>
+        <nom>Jacques</nom>
+        <trimestre>
+            <note>10</note>
+            <note>11</note>
+            <note>13</note>
+        </trimestre>
+    </eleve>
+</classe>
+

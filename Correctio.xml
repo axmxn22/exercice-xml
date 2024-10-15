@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annuaire>
+    <personne>
+        <nom>Dupont</nom>
+        <prenom>Paul</prenom>
+        <date format="ISO" langue="fr-fr">1998-07-23</date>
+        <telephone />
+    </personne>
+    <personne>
+        <nom>Alain</nom>
+        <prenom courant="Vrai">Adrien</prenom>
+        <date format="ISO">1969-06-04</date>
+        <telephone>
+            <indicatif>02</indicatif>
+            <num_tel>40 40 36 18</num_tel>
+        </telephone>
+    </personne>
+</annuaire>
+

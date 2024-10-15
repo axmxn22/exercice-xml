@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<polyedres>
+    <polyedre>
+        <nom>Cube</nom>
+        <matiere>Bois</matiere>
+        <faces>
+            <face couleur="Rouge"/>
+            <face couleur="Bleu"/>
+            <face couleur="Vert"/>
+            <face couleur="Jaune"/>
+            <face couleur="Orange"/>
+            <face couleur="Violet"/>
+        </faces>
+    </polyedre>
+</polyedres>
+
